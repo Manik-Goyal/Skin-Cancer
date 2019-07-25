@@ -1,0 +1,9 @@
+############################ Validation Data ###################################
+Basic Inception Resnet Normalized (Sample Submission) 0.709
+Basic Inception Resnet (Sample Submission) 0.701
+Basic Inception_v4 Normalized (Sample Submission) 0.663
+Basic Inception_v4 (Sample Submission) 0.709
+Conv. Ensemble (Inception Models Normalized) + avg. pooling 0.837
+Conv. Ensemble (Inception Models Normalized) + avg. pooling (3 models) 0.694
+Conv. Ensemble (Inception Models) + avg. pooling 0.729
+Conv. Ensemble (Inception Models Normalized+Un-Norm) + avg. pooling 0.732
